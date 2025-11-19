@@ -5,8 +5,8 @@
 </div>
 </div>
 <div style="text-align: right; font-style: italic; margin-bottom: 20px;">
-    <p>Start date: 29 October, 2025.<br>
-    Due date: 04 October, 2025.</p>
+    <p>Topic: Introduction to Git.<br>
+    Student learning time: 2 hours.</p>
 </div>
 
 # Installation
@@ -40,6 +40,8 @@ Make sure that you choose "Just me" option.
 ## Task 3: Create project in Gitlab
 - create using gitlab web interface.
 - create using VS Code interface.
+
+<div style="page-break-after: always;"></div>
 
 ## Task 4: Create project in local machine
 - setup a project
