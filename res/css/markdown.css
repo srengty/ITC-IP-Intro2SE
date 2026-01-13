@@ -19,3 +19,16 @@ body,html {
     box-shadow: 0 5px 10px #00000080;
     color: white;
 }
+@page:first{
+    margin-top: 0;
+}
+.footer{
+    display:flex; 
+    width: 100%;
+    margin: 0.3cm 1cm;
+}
+.footer .section-2 {
+    content: "International Program";
+    margin-left: auto; 
+    font-size: 9px;
+}

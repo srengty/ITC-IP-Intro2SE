@@ -1,0 +1,4 @@
+{
+    "markdown-pdf.footerTemplate": "<div style=\"display:flex; width: 100%; margin: 0 1cm;\"><div style=\"font-size: 9px; width: fit-content;\"> <span class='pageNumber'></span> / <span class='totalPages'></span></div><div style=\"margin-left: auto; font-size: 9px;\">International Program</div></div>",
+    "markdown-pdf.headerTemplate": " "
+}
